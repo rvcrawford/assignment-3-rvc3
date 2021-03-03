@@ -1,6 +1,8 @@
 output_dir: "."
 title: "Our Collaborative Website"
 navbar:
+  tufte::tufte_html:
+      tufte_features: ["fonts", "background", "italics"]
   left:
     - text: "Home"
       href: index.html
