@@ -2,19 +2,7 @@
 title: "Yunxuan"
 author: "Yunxuan Pei"
 date: "2/26/2021"
-output: 
-  tufte::tufte_html:
-    tufte_features: ["fonts", "background", "italics"]
-navbar:
-  tufte::tufte_html:
-      tufte_features: ["fonts", "background", "italics"]
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Ryan"
-      href: ryan.html
-    - text: "Yunxuan"
-      href: yunxuan.html  
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
