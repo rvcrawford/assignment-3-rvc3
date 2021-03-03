@@ -8,8 +8,5 @@ navbar:
     - text: "Yunxuan"
       href: yunxuan.html  
 output:
-  html_document:
-    theme: cerulean
-    highlight: textmate
-    toc: true 
-    toc_float: true 
+  tufte::tufte_html:
+    tufte_features: ["fonts", "background", "italics"]
