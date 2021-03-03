@@ -2,7 +2,7 @@ output_dir: "."
 title: "Our Collaborative Website"
 navbar:
   type: inverse
-  left:
+  right:
     - text: "Home"
       icon: fa-home
       href: index.html
