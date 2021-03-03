@@ -11,3 +11,4 @@ navbar:
 output:
     tufte::tufte_html:
       tufte_features: ["fonts", "background", "italics"]
+
