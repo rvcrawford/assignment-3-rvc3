@@ -9,4 +9,5 @@ navbar:
     - text: "Yunxuan"
       href: yunxuan.html  
 output:
-    tufte::tufte_html: default
+    tufte::tufte_html:
+      tufte_features: ["fonts", "background", "italics"]
