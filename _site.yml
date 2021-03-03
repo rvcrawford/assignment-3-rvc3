@@ -1,4 +1,5 @@
 output_dir: "."
+title: "Our Collaborative Website"
 navbar:
   left:
     - text: "Home"
