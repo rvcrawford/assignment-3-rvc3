@@ -1,8 +1,10 @@
 output_dir: "."
 title: "Our Collaborative Website"
 navbar:
+  type: inverse
   left:
     - text: "Home"
+      icon: <i class="fas fa-seedling"></i>
       href: index.html
     - text: "Ryan"
       href: ryan.html
