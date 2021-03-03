@@ -10,7 +10,7 @@ navbar:
       href: yunxuan.html  
 output:
     html_document:
-      theme: cerulean
+      theme: readable
       highlight: textmate
       toc: true 
       toc_float: true 

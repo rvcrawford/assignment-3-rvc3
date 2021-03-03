@@ -2,10 +2,7 @@
 title: "My Home Page"
 author: "Ryan Crawford"
 date: "2/28/2021"
-output: 
-  tufte::tufte_html:
-    tufte_features: ["fonts", "background", "italics"]
-
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
