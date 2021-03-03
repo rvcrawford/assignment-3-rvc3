@@ -13,7 +13,11 @@ output: html_document
 
 ![This the book I'm slooooowly reading:](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JGPUVujQao6J7g5-RQ96oQHaLR%26pid%3DApi&f=1 width="150px"></right>)
 
+</br>
+
+### Finally, a little bit of Iris data
+
 ```{r}
-head(iris)
+tibble::glimpse(iris)
 ```
 
