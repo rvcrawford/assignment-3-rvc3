@@ -4,7 +4,7 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      icon: <i class="fas fa-seedling"></i>
+      icon: fa-home
       href: index.html
     - text: "Ryan"
       href: ryan.html
