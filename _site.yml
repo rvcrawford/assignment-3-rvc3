@@ -9,6 +9,4 @@ navbar:
     - text: "Yunxuan"
       href: yunxuan.html  
 output:
-    html_document:
-      toc: true
-      toc_float: true
+    tufte::tufte_html: default
