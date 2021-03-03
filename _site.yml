@@ -10,6 +10,7 @@ navbar:
       icon: fas fa-seedling
       href: ryan.html
     - text: "Yunxuan"
+      icon: fas fa-tree
       href: yunxuan.html  
 output:
     html_document:
