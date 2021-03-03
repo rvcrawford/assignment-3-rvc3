@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### My collaborator is **Yunxuan Pei**
 
-![This is a UAV](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmyspatial.com.my%2Fwp-content%2Fuploads%2F2017%2F07%2Ffotolia88050102subscriptionmonthlym.jpg&f=1&nofb=1P)
+![This is a UAV](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmyspatial.com.my%2Fwp-content%2Fuploads%2F2017%2F07%2Ffotolia88050102subscriptionmonthlym.jpg&f=1&nofb=1P width="150px"></center>)
