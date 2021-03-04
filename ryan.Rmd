@@ -26,7 +26,7 @@ library(tidyverse)
 ```{r}
 knitr::kable(iris %>% group_by(Species) %>% summarize_all(mean))
 ```
-### And an Iris plot: 
+### And an iris plot: 
 ```{r}
 iris %>% 
   ggplot(., aes(x=Sepal.Length, y=Sepal.Width, color=Species))+
